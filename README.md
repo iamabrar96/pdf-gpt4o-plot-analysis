@@ -10,6 +10,6 @@ This script utilizes the PyMuPDF library to extract figure plots and images from
 
 ## image_data_extract_llm.py
 
-This script demonstrates how to use the GPT-4o language model (LLM) for analyzing extracted images. It encodes an image file as a base64 string, sends it along with a query to the GPT-40 model, and generates a CSV-formatted response containing details extracted from the image.
+This script demonstrates how to use the GPT-4o language model (LLM) for analyzing extracted images. It encodes an image file as a base64 string, sends it along with a query to the GPT-4o model, and generates a CSV-formatted response containing details extracted from the image.
 
 
