@@ -1,6 +1,6 @@
 # PDF Image Extraction and Analysis using gpt-4o
 
-![Flow Chart](./Flow_chart_image.png)
+![Flow Chart](./Flow_chart.png)
 
 This repository contains Python scripts for extracting images from PDF files and analyzing them using the GPT-40 language model. The scripts are designed to facilitate the extraction of graphical information, such as figure plots, from PDF documents, and generate insights or summaries in CSV format.
 
